@@ -67,11 +67,11 @@ def main():
         # Initialize OpenAI API key
         openai.api_key = st.secrets["openai_key"]
         
-        st.header("Chat with this Pre-Screening Chatbot 💬")
+        st.header("Chat here for more info 💬")
 
         if "messages" not in st.session_state:
             st.session_state.messages = [
-                {"role": "assistant", "content": "Ask me a question about different job positions!"}
+                {"role": "assistant", "content": "Ask me questions about different job positions!"}
             ]
 
         @st.cache_resource(show_spinner=False)
