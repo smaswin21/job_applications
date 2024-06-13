@@ -1,0 +1,58 @@
+OUR MISSION
+
+We are looking for an Analyst (Supply Operations) who finds the balance between creativity and data-driven objectivity in such a way that carries out projects that seem impossible until they come true.
+You will be in charge of providing data into the forecasting and operations initiatives of the Supply Operations Excellence team.
+Through analytics you will ensure we always have the right strategic data in place in order to take the best operation decisions having direct impact on the global P&L, trying to maximize the operational forecast and accuracy. The KPIs that you’ll be shaping are one of the most important ones for Operations, since you’ll provide an understanding of the demand and supply situation for each Glovo city.
+
+
+THE JOURNEY
+
+Work closely with product managers, business operations, and data engineering to guide product in problem discoveries, monitor and give visibility of product metrics and KPIs.
+Develop and maintain scalable visualization tools and storytelling dashboards, and propose decisions in consequence.
+Understand global business needs and create insightful analysis to internal teams to make the right decision.
+Analyze in detail the cities that we operate in (+800 cities) to capture historical trends, develop statistical models and evaluate forecast results.
+Learn continuously while challenging, testing and improve a game-changing product.
+Take ownership of reporting of KPIs and give shape the operational model.
+Build robust relationships with stakeholders acting as a strategic and supportive link between the technology, business, and product.
+A/B test the launch of new features.
+
+
+WHAT YOU WILL BRING TO THE RIDE
+
+Bachelor in Engineering, Maths or any other quantitative domain
+Demonstrated strong analytical expertise and highly advanced Excel skills.
+Proficient SQL skills.
+2+ years of professional experience outside of an academic and internship setting, in a quantitative analysis role.
+Experience finding and tearing down data to establish a sustainable business strategy.
+Ability to present this data. You know how to easily explain complex concepts.
+Ability to manage the big picture, but also the smallest details. You're always on top of your deadlines and an organization freak.
+Bachelor's degree in a quantitative field.
+Proficiency in English is a must.
+
+
+NICE TO HAVE:
+
+Knowledge of visualization tools such as Looker, Tableau, Qlik, etc.
+Professional experience in reporting to high-level stakeholders as business analyst, data analyst, data scientist, or similar.
+Skills on Python, R or other scripting languages.
+
+
+Individuals representing diverse profiles, encompassing various genders, ethnicities, and backgrounds, are less likely to apply for this role if they do not possess solid experience in 100% of these areas. Even if it seems you don't meet our musts don't let it stop you, we are all about finding the best talent out there! Skills can be learned, and embracing diversity is invaluable.
+
+
+
+We believe driven talent deserves:
+
+🌟 An enticing equity plan that lets you own a piece of the action.
+💪 Top-notch private health insurance to keep you at your peak.
+🍔 Monthly Glovo credit to satisfy your cravings!
+💳 Cobee discounts on transportation, food, and even kindergarten expenses.
+🏊 Discounted gym memberships to keep you energized.
+🏖️ Extra time off, the freedom to work from home two days a week, and the opportunity to work from anywhere for up to three weeks a year!
+👪 Enhanced parental leave, and office-based nursery.
+🧠 Online therapy and wellbeing benefits to ensure your mental well-being.
+
+
+Here at Glovo, we thrive on diversity, we believe it enhances our teams, products, and culture. We know that the best ideas come from a mashup of brilliant diverse minds. This is why we are committed to providing equal opportunities to talent from all backgrounds - all genders, racial/diverse backgrounds, abilities, ages, sexual orientations and all other unique characteristics that make you YOU. We will encourage you to bring your authentic self to work, fostering an inclusive environment where everyone feels heard. 
+
+Feel free to note your pronouns in your application (e.g., she/her/hers, he/him/his, they/them/theirs, etc)
